@@ -1,1 +1,2 @@
 # gitjenkinsintegration
+echo "hi everyone"
